@@ -86,6 +86,10 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
 [![Skill Verified](https://img.shields.io/badge/Skill-Verified-green?style=for-the-badge&logo=Ostad)](https://ostad.app)
 
 👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**  
+🤖 **[AI Concepts by Microsoft](https://learn.microsoft.com/en-us/users/shimontalukder-6374/achievements/xqmrgz8y)**
+💻 **[Code with JavaScript](https://ostad.app/share/certificate/c23451-shimon-talukder-raj)
+💼 **[Microsoft Office](https://10minuteschool.com/certificate/67cec609d1f0a/)
+🎤 **[Presentation & Public Speaking](https://10minuteschool.com/certificate/643792c61516a/)
 
 ---
 ## 📘 Learning Journey
@@ -107,12 +111,15 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
 
 ## 📊 GitHub Activity
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /><img src="https://api.vaunt.dev/v1/github/entities/rajtalukder159/contributions?format=svg&private=false" height="220" alt="streak graph"  /> 
+<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
 <div align="Center">
 <img src="https://github-readme-stats.vercel.app/api?username=rajtalukder159&count_private=true&show_icons=true&theme=algolia" />
-
+</div>
+<div align="right">
+<img src="https://api.vaunt.dev/v1/github/entities/rajtalukder159/contributions?format=svg&private=false" height="220" alt="streak graph"  />
+</div>
+<div align="Center">
 <img src="https://github-profile-trophy.vercel.app/?username=rajtalukder159&theme=darkhub]https://github.com/ryo-ma/github-profile-trophy" />
 </div>
 
@@ -151,7 +158,6 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
   <a href="www.linkedin.com/in/shimon-talukder-646860295" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+
+"Stay curious. Hack ethically. Learn endlessly."
 </div>
-
-
-> "Stay curious. Hack ethically. Learn endlessly."

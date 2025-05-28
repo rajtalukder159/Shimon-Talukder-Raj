@@ -87,9 +87,9 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
 
 👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**  
 🤖 **[AI Concepts by Microsoft](https://learn.microsoft.com/en-us/users/shimontalukder-6374/achievements/xqmrgz8y)**
-💻 **[Code with JavaScript](https://ostad.app/share/certificate/c23451-shimon-talukder-raj)
-💼 **[Microsoft Office](https://10minuteschool.com/certificate/67cec609d1f0a/)
-🎤 **[Presentation & Public Speaking](https://10minuteschool.com/certificate/643792c61516a/)
+💻 **[Code with JavaScript](https://ostad.app/share/certificate/c23451-shimon-talukder-raj)**
+💼 **[Microsoft Office](https://10minuteschool.com/certificate/67cec609d1f0a/)**
+🎤 **[Presentation & Public Speaking](https://10minuteschool.com/certificate/643792c61516a/)**
 
 ---
 ## 📘 Learning Journey

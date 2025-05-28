@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+![](https://media.licdn.com/dms/image/v2/D5616AQEnUoVVPhjA_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711456067307?e=1753920000&v=beta&t=M3B_KK6O3zahEwz0R-VH0J0cH23D13b86cgvLI43Nss)
 
 <div align="center">
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hey, I am Shimon Talukder Raj 👋!
-</div>
+<h2><img height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> hey, I am Shimon Talukder Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 
 <h2 align="center">
 🎓 HSC Science Student | 💻 Cybersecurity Intern | 🎯 Ethical Hacking Enthusiast  
@@ -12,8 +10,7 @@
 </h2>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rajtalukder159&style=flat-square&color=blue)
-
----
+</div>
 
 ## 🔍 About Me
 
@@ -30,6 +27,7 @@ I thrive on learning, hacking ethically, sharing knowledge, and helping others g
 ---
 
 ## 🛠️ My Tech Toolbox
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 ### 💻 Operating Systems I Work With:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -81,7 +79,15 @@ Analyzed Android and ELF binaries using **MobSF**, **APKTool**, and **Java Decom
 A collection of real-world cybersecurity tools, tests, and research documentation.
 
 ---
+# 📜 Certificates
 
+[![Certificate](https://img.shields.io/badge/Certified-CyberSecurity-blueviolet?style=for-the-badge&logo=Hackaday&logoColor=white)](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)
+[![Ethical Hacker](https://img.shields.io/badge/Ethical%20Hacker-Yes-success?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://ostad.app)
+[![Skill Verified](https://img.shields.io/badge/Skill-Verified-green?style=for-the-badge&logo=Ostad)](https://ostad.app)
+
+👾 **[Cyber Security & Ethical Hacking Career Track](https://ostad.app/share/certificate/a27041-shimon-talukder-raj)**  
+
+---
 ## 📘 Learning Journey
 - 🔧 Advanced CVE Exploitation
 - 📱 Mobile App Security (OWASP MASVS)
@@ -101,14 +107,16 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
 
 ## 📊 GitHub Activity
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /><img src="https://api.vaunt.dev/v1/github/entities/rajtalukder159/contributions?format=svg&private=false" height="220" alt="streak graph"  /> 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajtalukder159&count_private=true&show_icons=true&theme=algolia)<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajtalukder159&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="Center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajtalukder159&count_private=true&show_icons=true&theme=algolia" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajtalukder159&theme=darkhub]https://github.com/ryo-ma/github-profile-trophy" />
+</div>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajtalukder159&theme=github-dark)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=rajtalukder159&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ###
 
@@ -123,8 +131,7 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
 ---
 
 ## 🌐 Let's Connect
-
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@study_by_raj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>

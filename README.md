@@ -1,18 +1,17 @@
 ![](https://media.licdn.com/dms/image/v2/D5616AQEnUoVVPhjA_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711456067307?e=1753920000&v=beta&t=M3B_KK6O3zahEwz0R-VH0J0cH23D13b86cgvLI43Nss)
 
 <div align="center">
-<h2><img height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> hey, I am Shimon Talukder Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1><img height="80" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> hey, I am Shimon Talukder Raj  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 
-<h2 align="center">
+<h3 align="center">
 HSC 26 Science Student | Building Skills in Penetration, DFIR, and Threat Detection, Red & Blue Team Path | CCNA (Networking) | Growing Skills in Python, C, HTML, Bash, and DSA | Music and books lover | Lifelong Learner | Building my place in the Cyber World
-</h2>
+</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rajtalukder159&style=flat-square&color=blue)
 </div>
 
 ## 🔍 About Me
-## 👋 About Me
 
 I'm a passionate **cybersecurity learner** and aspiring **ethical hacker** currently pursuing my HSC (Science, 2026). I’m working through hands-on courses and labs to gain strong skills in both **Red Teaming** and **Blue Team Defense**.
 

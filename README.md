@@ -5,24 +5,50 @@
 
 
 <h2 align="center">
-🎓 HSC Science Student | 💻 Cybersecurity Intern | 🎯 Ethical Hacking Enthusiast  
-🎮 Gamer | 🎵 Music Lover | 📚 Curious Learner | 🌐 Building my place in the Cyber World
+👨‍🎓 HSC '26 Science Student | 🛡️ Building Skills in Penetration Testing, DFIR & Threat Detection|🔴 Red & 🔵 Blue Team Path | 📡 CCNA (Networking)|
+|💻 Growing Skills in: 🐍 Python, 💻 C, 🌐 HTML, 🖥️ Bash, 🧠 DSA|
+|🎧 Music & 📚 Book Lover | 🚀 Lifelong Learner |🌐 Building my place in the Cyber World
 </h2>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rajtalukder159&style=flat-square&color=blue)
 </div>
 
 ## 🔍 About Me
+## 👋 About Me
 
-As a passionate cybersecurity learner and aspiring ethical hacker, I specialize in:
-- Vulnerability Assessment & Penetration Testing
-- Cloud Enumeration & Reconnaissance
-- Web App Security & Malware Analysis
-- Binary Reverse Engineering (ELF, PE)
+I'm a passionate **cybersecurity learner** and aspiring **ethical hacker** currently pursuing my HSC (Science, 2026). I’m working through hands-on courses and labs to gain strong skills in both **Red Teaming** and **Blue Team Defense**.
 
-💡 Tools I’ve worked with: **Burp Suite**, **OWASP ZAP**, **Metasploit**, **SQLMap**, **MobSF**, **LazyS3**, **Nessus**, **Nmap**, **RED HAWK**, **WebGoat**, and more.
+---
 
-I thrive on learning, hacking ethically, sharing knowledge, and helping others grow.
+### 💻 I Specialize In:
+- 🔍 **Vulnerability Assessment & Penetration Testing**  
+- ☁️ **Cloud Enumeration & Reconnaissance**  
+- 🛡️ **Web App Security & Malware Analysis**  
+- 🧠 **Binary Reverse Engineering** (ELF, PE)  
+- 🧩 **Threat Detection & Digital Forensics**
+
+---
+
+### 💡 Tools I’ve Worked With:
+
+**Burp Suite**, **OWASP ZAP**, **Metasploit**, **SQLMap**,  
+**MobSF**, **LazyS3**, **Nessus**, **Nmap**,  
+**RED HAWK**, **WebGoat**, **Wireshark**, **Autopsy**,  
+**Volatility**, **YARA**, **OpenVAS**, **Aircrack-ng**, and more.
+
+---
+
+### 🧠 Currently Learning:
+- 📘 **CCNA 200-301** (Simplilearn)  
+- 🔐 **Career Essentials in Cybersecurity** (LinkedIn x Microsoft)  
+- 🌐 **Red & Blue Team Paths** (TryHackMe)  
+- 🐍 Programming in **Python, C, HTML, Bash**, and DSA
+
+---
+
+### 🎧 Beyond Cyber:
+I'm a **music lover**, an avid **book reader**, and a firm believer in **lifelong learning**. 
+I enjoy capturing my learning journey and helping others grow in the cybersecurity community.
 
 ---
 

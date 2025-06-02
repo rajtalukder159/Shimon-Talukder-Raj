@@ -182,5 +182,7 @@ A collection of real-world cybersecurity tools, tests, and research documentatio
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-blue?logo=microsoft)](https://learn.microsoft.com/en-us/users/ShimonTalukder-6374)
+
 "Stay curious. Hack ethically. Learn endlessly."
 </div>
